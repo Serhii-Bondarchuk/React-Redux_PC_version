@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/React-Redux_PC_version/static/css/main.5eb30694.chunk.css",
+    "main.css": "/React-Redux_PC_version/static/css/main.de916fd2.chunk.css",
     "main.js": "/React-Redux_PC_version/static/js/main.9406e4ca.chunk.js",
     "main.js.map": "/React-Redux_PC_version/static/js/main.9406e4ca.chunk.js.map",
     "runtime-main.js": "/React-Redux_PC_version/static/js/runtime-main.c56c6907.js",
@@ -10,13 +10,13 @@
     "static/js/3.267e22d2.chunk.js": "/React-Redux_PC_version/static/js/3.267e22d2.chunk.js",
     "static/js/3.267e22d2.chunk.js.map": "/React-Redux_PC_version/static/js/3.267e22d2.chunk.js.map",
     "index.html": "/React-Redux_PC_version/index.html",
-    "static/css/main.5eb30694.chunk.css.map": "/React-Redux_PC_version/static/css/main.5eb30694.chunk.css.map",
+    "static/css/main.de916fd2.chunk.css.map": "/React-Redux_PC_version/static/css/main.de916fd2.chunk.css.map",
     "static/js/2.81f915b2.chunk.js.LICENSE.txt": "/React-Redux_PC_version/static/js/2.81f915b2.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.c56c6907.js",
     "static/js/2.81f915b2.chunk.js",
-    "static/css/main.5eb30694.chunk.css",
+    "static/css/main.de916fd2.chunk.css",
     "static/js/main.9406e4ca.chunk.js"
   ]
 }
