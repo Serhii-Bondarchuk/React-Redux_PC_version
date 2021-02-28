@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/React-Redux/static/css/main.65ffb2c0.chunk.css",
-    "main.js": "/React-Redux/static/js/main.9406e4ca.chunk.js",
-    "main.js.map": "/React-Redux/static/js/main.9406e4ca.chunk.js.map",
-    "runtime-main.js": "/React-Redux/static/js/runtime-main.f880e4dc.js",
-    "runtime-main.js.map": "/React-Redux/static/js/runtime-main.f880e4dc.js.map",
-    "static/js/2.81f915b2.chunk.js": "/React-Redux/static/js/2.81f915b2.chunk.js",
-    "static/js/2.81f915b2.chunk.js.map": "/React-Redux/static/js/2.81f915b2.chunk.js.map",
-    "static/js/3.267e22d2.chunk.js": "/React-Redux/static/js/3.267e22d2.chunk.js",
-    "static/js/3.267e22d2.chunk.js.map": "/React-Redux/static/js/3.267e22d2.chunk.js.map",
-    "index.html": "/React-Redux/index.html",
-    "static/css/main.65ffb2c0.chunk.css.map": "/React-Redux/static/css/main.65ffb2c0.chunk.css.map",
-    "static/js/2.81f915b2.chunk.js.LICENSE.txt": "/React-Redux/static/js/2.81f915b2.chunk.js.LICENSE.txt"
+    "main.css": "/React-Redux_PC_version/static/css/main.65ffb2c0.chunk.css",
+    "main.js": "/React-Redux_PC_version/static/js/main.9406e4ca.chunk.js",
+    "main.js.map": "/React-Redux_PC_version/static/js/main.9406e4ca.chunk.js.map",
+    "runtime-main.js": "/React-Redux_PC_version/static/js/runtime-main.c56c6907.js",
+    "runtime-main.js.map": "/React-Redux_PC_version/static/js/runtime-main.c56c6907.js.map",
+    "static/js/2.81f915b2.chunk.js": "/React-Redux_PC_version/static/js/2.81f915b2.chunk.js",
+    "static/js/2.81f915b2.chunk.js.map": "/React-Redux_PC_version/static/js/2.81f915b2.chunk.js.map",
+    "static/js/3.267e22d2.chunk.js": "/React-Redux_PC_version/static/js/3.267e22d2.chunk.js",
+    "static/js/3.267e22d2.chunk.js.map": "/React-Redux_PC_version/static/js/3.267e22d2.chunk.js.map",
+    "index.html": "/React-Redux_PC_version/index.html",
+    "static/css/main.65ffb2c0.chunk.css.map": "/React-Redux_PC_version/static/css/main.65ffb2c0.chunk.css.map",
+    "static/js/2.81f915b2.chunk.js.LICENSE.txt": "/React-Redux_PC_version/static/js/2.81f915b2.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.f880e4dc.js",
+    "static/js/runtime-main.c56c6907.js",
     "static/js/2.81f915b2.chunk.js",
     "static/css/main.65ffb2c0.chunk.css",
     "static/js/main.9406e4ca.chunk.js"
