@@ -19,8 +19,9 @@ color: white;
 
 
 html {
-/*height: -webkit-fill-available;*/
-min-height: 100%;
+weight: -webkit-fill-available;	
+height: -webkit-fill-available;
+/* min-height: 100%; */
 display: inline-table;	
 }
 code {
