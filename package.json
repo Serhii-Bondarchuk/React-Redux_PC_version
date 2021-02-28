@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "homepage": "https://serhii-bondarchuk.github.io/React-Redux",
     "@testing-library/jest-dom": "^5.11.9",
     "@testing-library/react": "^11.2.5",
     "@testing-library/user-event": "^12.6.3",
@@ -16,7 +17,7 @@
     "redux-logger": "^3.0.6",
     "web-vitals": "^1.1.0"
   },
-  "homepage": "https://serhii-bondarchuk.github.io/React-Redux",
+  
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
