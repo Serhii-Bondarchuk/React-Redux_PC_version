@@ -17,7 +17,7 @@
     "redux-logger": "^3.0.6",
     "web-vitals": "^1.1.0"
   },
-  "homepage": "https://serhii-bondarchuk.github.io/React-Redux",
+  "homepage": "https://serhii-bondarchuk.github.io/React-Redux_PC_version",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
